@@ -1,0 +1,47 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "FruityFred",
+    "longName": "Circolors",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu-bw.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9/\u00b0]",
+                "file": "fonts/Righteous-Regular.ttf",
+                "name": "FONT_RIGHTEOUS_18",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9]",
+                "file": "fonts/Righteous-Regular.ttf",
+                "name": "FONT_RIGHTEOUS_26",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9]",
+                "file": "fonts/Righteous-Regular.ttf",
+                "name": "FONT_RIGHTEOUS_50",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Circolors",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "fe8ddb53-4817-4e87-9c55-c48e6f7151c1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

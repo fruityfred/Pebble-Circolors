@@ -9,12 +9,6 @@
     "resources": {
         "media": [
             {
-                "file": "images/menu-bw.png",
-                "menuIcon": true,
-                "name": "MENU_ICON",
-                "type": "png"
-            },
-            {
                 "characterRegex": "[0-9/\u00b0]",
                 "file": "fonts/Righteous-Regular.ttf",
                 "name": "FONT_RIGHTEOUS_18",
@@ -31,6 +25,12 @@
                 "file": "fonts/Righteous-Regular.ttf",
                 "name": "FONT_RIGHTEOUS_50",
                 "type": "font"
+            },
+            {
+                "file": "images/menu-bw.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
             }
         ]
     },

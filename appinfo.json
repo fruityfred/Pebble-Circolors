@@ -11,19 +11,19 @@
             {
                 "characterRegex": "[0-9/\u00b0]",
                 "file": "fonts/Righteous-Regular.ttf",
-                "name": "FONT_RIGHTEOUS_18",
+                "name": "FONT_RIGHTEOUS_20",
                 "type": "font"
             },
             {
                 "characterRegex": "[0-9]",
                 "file": "fonts/Righteous-Regular.ttf",
-                "name": "FONT_RIGHTEOUS_26",
+                "name": "FONT_RIGHTEOUS_30",
                 "type": "font"
             },
             {
                 "characterRegex": "[0-9]",
                 "file": "fonts/Righteous-Regular.ttf",
-                "name": "FONT_RIGHTEOUS_50",
+                "name": "FONT_RIGHTEOUS_54",
                 "type": "font"
             },
             {

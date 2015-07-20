@@ -1,6 +1,10 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
     "capabilities": [
+        "location",
         "configurable"
     ],
     "companyName": "FruityFred",
@@ -9,21 +13,21 @@
     "resources": {
         "media": [
             {
-                "characterRegex": "[0-9/\u00b0]",
+                "characterRegex": "[0-9]",
                 "file": "fonts/Righteous-Regular.ttf",
-                "name": "FONT_RIGHTEOUS_20",
+                "name": "FONT_RIGHTEOUS_56",
                 "type": "font"
             },
             {
-                "characterRegex": "[0-9]",
+                "characterRegex": "[0-9\u00b0]",
                 "file": "fonts/Righteous-Regular.ttf",
                 "name": "FONT_RIGHTEOUS_30",
                 "type": "font"
             },
             {
-                "characterRegex": "[0-9]",
+                "characterRegex": "[0-9/\u00b0]",
                 "file": "fonts/Righteous-Regular.ttf",
-                "name": "FONT_RIGHTEOUS_54",
+                "name": "FONT_RIGHTEOUS_20",
                 "type": "font"
             },
             {
